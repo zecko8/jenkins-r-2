@@ -1,4 +1,4 @@
 #! /bin/bash
 
-echo v1
+echo v2
 tail -f /dev/null
