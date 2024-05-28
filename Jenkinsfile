@@ -4,7 +4,7 @@ pipeline {
     stage('Test') {
       steps {
         sh 'ls /app'
-        sh 'cat /app/start.sh
+        sh 'cat /app/start.sh'
       }
     }
   }
